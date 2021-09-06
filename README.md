@@ -1,4 +1,4 @@
-# spring-transaction-synchronization
+# spring-tx-post-synchronization
 
 ## 使用场景
 在Spring事务中发送MQ或进行加锁操作，在事务还未结束时，MQ就已经发送出去或锁已经被释放掉，导致数据不一致性问题：
