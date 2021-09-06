@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.wf2311</groupId>
-    <artifactId>spring-transaction-synchronization</artifactId>
+    <artifactId>spring-tx-post-synchronization</artifactId>
 
     <dependencies>
         <dependency>
